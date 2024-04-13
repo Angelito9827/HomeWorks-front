@@ -1,0 +1,23 @@
+/*.navbar{
+  display: flex;
+   background-color: #6499E9;
+   height: 120px;
+   width: 100%;
+  position:fixed;
+   justify-content: center;
+
+}
+
+.example-button-row {
+   max-width: 600px;
+  margin: 8px 8px 8px 0;
+}
+*/
+.navbar {
+  display: flex;
+  align-content: center;
+}
+
+a {
+  margin-right: 8px;
+}
